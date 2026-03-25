@@ -19,20 +19,20 @@ ChatGPT / Claude / Gemini
 - structure requirements
 
 ## Prompt
-Write a 500-word blog post on the benefits of meditation for stress relief.
+Write a [WORD COUNT]-word blog post on [TOPIC].
 
 Requirements:
 - Include an introduction
-- Include three main points with supporting evidence
+- Include [NUMBER] points with supporting evidence
 - Include a conclusion
 - Keep the writing clear, engaging, and informative
 - Make it suitable for a general audience
 
 ## Example Input
 - Topic: meditation for stress relief
-- Word count: 500
-- Audience: general readers
-- Tone: informative and encouraging
+- Word count: [NUMBER]
+- Audience: [AUDIENCE]
+- Tone: [TONE]
 
 ## Example Output
 A blog post with:
