@@ -38,9 +38,18 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 ## Marketing
 - [Social Media Content](./prompts/marketing/social-media-content.md)
 - [Product Description](./prompts/marketing/product-description.md)
+- [Email Newsletter Strategist](./prompts/marketing/email-newsletter-strategist.md)
 
 ## Education
 - [ScholarAI Academic Writing](./prompts/education/scholar-ai-academic-writing.md)
 
 ## Science
 - [Science Explainer Visual First](./prompts/science/science-explainer-visual-first.md)
+
+## Books
+- [Book Recommender](./prompts/books/book-recommender.md)
+
+## Branding
+- [Personal Brand Storyteller](./prompts/branding/personal-brand-storyteller.md)
+
+- [Email Newsletter Strategist](./prompts/marketing/email-newsletter-strategist.md)
