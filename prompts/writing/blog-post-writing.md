@@ -30,7 +30,7 @@ Requirements:
 
 ## Example Input
 - Topic: meditation for stress relief
-- Word count: [NUMBER]
+- Word count: [WORD COUNT]
 - Audience: [AUDIENCE]
 - Tone: [TONE]
 
