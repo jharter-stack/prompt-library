@@ -63,3 +63,6 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 
 ## Legal
 - [Legal Advisor](./prompts/legal/legal-advisor.md)
+
+## Shopping
+- [Coupon Code Finder](./prompts/shopping/coupon-code-finder.md)
