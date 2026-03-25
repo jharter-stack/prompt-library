@@ -55,3 +55,6 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 
 ## Support
 - [FAQ Content Expert](./prompts/support/faq-content-expert.md)
+
+## Business
+- [Business Plan Strategist](./prompts/business/business-plan-strategist.md)
