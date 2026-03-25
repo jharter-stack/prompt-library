@@ -31,3 +31,10 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 3. Replace the placeholders with your details
 4. Run the prompt in your preferred model
 5. Save and refine the best version for reuse
+
+## Writing
+- [Blog Post Writing](./prompts/writing/blog-post-writing.md)
+
+## Marketing
+- [Social Media Content](./prompts/marketing/social-media-content.md)
+- [Product Description](./prompts/marketing/product-description.md)
