@@ -38,3 +38,9 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 ## Marketing
 - [Social Media Content](./prompts/marketing/social-media-content.md)
 - [Product Description](./prompts/marketing/product-description.md)
+
+## Education
+- [ScholarAI Academic Writing](./prompts/education/scholar-ai-academic-writing.md)
+
+## Science
+- [Science Explainer Visual First](./prompts/science/science-explainer-visual-first.md)
