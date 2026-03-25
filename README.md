@@ -51,5 +51,7 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 
 ## Branding
 - [Personal Brand Storyteller](./prompts/branding/personal-brand-storyteller.md)
-
 - [Email Newsletter Strategist](./prompts/marketing/email-newsletter-strategist.md)
+
+## Support
+- [FAQ Content Expert](./prompts/support/faq-content-expert.md)
