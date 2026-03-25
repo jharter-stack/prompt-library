@@ -59,3 +59,4 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 ## Business
 - [Business Plan Strategist](./prompts/business/business-plan-strategist.md)
 - [Business Plan Builder](./prompts/business/business-plan-builder.md)
+- [Competitor Analysis Pro](./prompts/business/competitor-analysis-pro.md)
