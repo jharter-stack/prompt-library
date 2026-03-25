@@ -66,3 +66,6 @@ A categorized collection of practical AI prompts built for repeatable output, fa
 
 ## Shopping
 - [Coupon Code Finder](./prompts/shopping/coupon-code-finder.md)
+
+## Creative
+- [Video Prompt Generator](./prompts/creative/video-prompt-generator.md)
